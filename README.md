@@ -1,8 +1,7 @@
 ```
-git clone --filter=blob:none --no-checkout https://github.com/nguyenhoai0910/k8s.git &&\
-cd k8s &&\
-git sparse-checkout init --cone &&\
-git sparse-checkout set 
+git clone --filter=blob:none --no-checkout https://github.com/nguyenhoai0910/k8s.git && cd k8s && git sparse-checkout init --cone
+git sparse-checkout set
+git checkout main
 ```
 # Giả sử bạn muốn tải thư mục src trong repo myproject
 ### 1. Clone repo mà không lấy toàn bộ dữ liệu
