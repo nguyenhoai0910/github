@@ -1,5 +1,5 @@
 ```
-git clone --no-checkout https://github.com/nguyenhoai0910/k8s.git &&\
+git clone --filter=blob:none --no-checkout https://github.com/nguyenhoai0910/k8s.git &&\
 cd k8s &&\
 git sparse-checkout init --cone &&\
 git sparse-checkout set 
@@ -8,7 +8,7 @@ git sparse-checkout set
 ### 1. Clone repo mà không lấy toàn bộ dữ liệu
     --no-checkout: Không tải toàn bộ nội dung, chỉ tải metadata của repo.
 ```
-git clone --no-checkout https://github.com/user/myproject.git
+git clone --filter=blob:none --no-checkout https://github.com/user/myproject.git
 cd myproject
 ```
 
