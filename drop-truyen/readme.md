@@ -1,6 +1,6 @@
 # Drop truyen
 1. [Ngự Thú Thế Gia Quật Khởi](https://quykiep.com/truyen/ngu-thu-the-gia-quat-khoi)
-2. [[Ta Có Đặc Thù Đơn Thân Kỹ Xảo](https://quykiep.com/truyen/ta-co-dac-thu-don-than-ky-xao)
+2. [Ta Có Đặc Thù Đơn Thân Kỹ Xảo](https://quykiep.com/truyen/ta-co-dac-thu-don-than-ky-xao)
 3. []()
 4. []()
 5. []()
